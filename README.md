@@ -17,16 +17,16 @@ This application displays a one page website containing 6 movies and links to th
   * file created by running fresh_tomatoes.py
 
 ## How to run the application:
-1. Ensure Python 2.7 is installed
+Ensure Python 2.7 is installed
 ````
 $ python -V
 ````
-2. Clone the repo in your terminal
+Clone the repo in your terminal
 ````
 $ git clone git@github.com:Courtney2511/movie_trailer_website.git
 ````
-3. Navigate to the directory where the files are installed
-4. Run entertainment_center.py
+Navigate to the directory where the files are installed
+Run entertainment_center.py
 ````
 $ python entertainment_center.py
 ````
